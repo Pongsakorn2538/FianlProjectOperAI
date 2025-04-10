@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/FianlProjectOperAI/mlruns/101816193059135782/7cef0927344042e79141febfd377b3d9/artifacts
+end_time: 1743913567887
+entry_point_name: ''
+experiment_id: '101816193059135782'
+lifecycle_stage: active
+run_id: 7cef0927344042e79141febfd377b3d9
+run_name: agreeable-hog-881
+run_uuid: 7cef0927344042e79141febfd377b3d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743913563524
+status: 3
+tags: []
+user_id: Asus

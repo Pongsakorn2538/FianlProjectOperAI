@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/FianlProjectOperAI/mlruns/101816193059135782/95bbdec251964601a7e804ba7e71dca8/artifacts
+end_time: 1743917035696
+entry_point_name: ''
+experiment_id: '101816193059135782'
+lifecycle_stage: active
+run_id: 95bbdec251964601a7e804ba7e71dca8
+run_name: wise-ray-79
+run_uuid: 95bbdec251964601a7e804ba7e71dca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743917032112
+status: 3
+tags: []
+user_id: Asus

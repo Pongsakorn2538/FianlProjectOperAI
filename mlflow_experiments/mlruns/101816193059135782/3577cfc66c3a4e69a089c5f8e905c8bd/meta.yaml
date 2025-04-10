@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/FianlProjectOperAI/mlruns/101816193059135782/3577cfc66c3a4e69a089c5f8e905c8bd/artifacts
+end_time: 1743917895576
+entry_point_name: ''
+experiment_id: '101816193059135782'
+lifecycle_stage: active
+run_id: 3577cfc66c3a4e69a089c5f8e905c8bd
+run_name: carefree-finch-191
+run_uuid: 3577cfc66c3a4e69a089c5f8e905c8bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743917892091
+status: 3
+tags: []
+user_id: Asus

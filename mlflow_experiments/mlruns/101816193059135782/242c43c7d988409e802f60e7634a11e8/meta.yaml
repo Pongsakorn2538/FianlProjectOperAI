@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/FianlProjectOperAI/mlruns/101816193059135782/242c43c7d988409e802f60e7634a11e8/artifacts
+end_time: 1743913435518
+entry_point_name: ''
+experiment_id: '101816193059135782'
+lifecycle_stage: active
+run_id: 242c43c7d988409e802f60e7634a11e8
+run_name: sneaky-sloth-868
+run_uuid: 242c43c7d988409e802f60e7634a11e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743913435469
+status: 4
+tags: []
+user_id: Asus
