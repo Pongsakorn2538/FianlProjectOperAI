@@ -1,0 +1,15 @@
+artifact_uri: file:///c:\Users\Asus\FinalProjectOperAI\mlruns/866249405866148063/ef422f6349734b09a6d3fdd95b867e4b/artifacts
+end_time: 1744403708405
+entry_point_name: ''
+experiment_id: '866249405866148063'
+lifecycle_stage: active
+run_id: ef422f6349734b09a6d3fdd95b867e4b
+run_name: SimpleRegression_NO2GT
+run_uuid: ef422f6349734b09a6d3fdd95b867e4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744403700536
+status: 3
+tags: []
+user_id: Asus

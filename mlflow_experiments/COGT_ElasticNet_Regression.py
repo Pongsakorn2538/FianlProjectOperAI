@@ -10,19 +10,19 @@ import json
 import joblib
 from itertools import product
 
+target_vars = 'COGT'
+model_name = 'ElasticNetRegression'
+
 current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
 mlflow.set_tracking_uri(f"file:///{os.path.join(parent_dir, 'mlruns')}")
-mlflow.set_experiment(experiment_name = "AirQuality_COGT_Prediction")
+mlflow.set_experiment(experiment_name = f"AirQuality_{target_vars}_Prediction")
 
 list_alpha = [0.01, 0.1, 1.0, 10]
 list_l1_ratio = [0.1, 0.5, 0.9]
 
 df_train = pd.read_pickle(parent_dir + r"\data\processed\feature_engineering_train_dataset.pkl")
 df_valid = pd.read_pickle(parent_dir + r"\data\processed\feature_engineering_validation_dataset.pkl")
-
-target_vars = 'COGT'
-model_name = 'ElasticNetRegression'
 
 combinations = list(product(list_alpha, list_l1_ratio))
 

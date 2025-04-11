@@ -9,16 +9,16 @@ import mlflow.sklearn
 import json
 from itertools import product
 
+target_vars = 'COGT'
+model_name = 'LightGBM'
+
 current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
 mlflow.set_tracking_uri(f"file:///{os.path.join(parent_dir, 'mlruns')}")
-mlflow.set_experiment(experiment_name = "AirQuality_COGT_Prediction")
+mlflow.set_experiment(experiment_name = f"AirQuality_{target_vars}_Prediction")
 
 df_train = pd.read_pickle(parent_dir + r"\data\processed\feature_engineering_train_dataset.pkl")
 df_valid = pd.read_pickle(parent_dir + r"\data\processed\feature_engineering_validation_dataset.pkl")
-
-target_vars = 'COGT'
-model_name = 'LightGBM'
 
 param_grid = {
     "n_estimators": [500, 1000, 2000],              # Boosting rounds

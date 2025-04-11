@@ -1,0 +1,15 @@
+artifact_uri: file:///c:\Users\Asus\FinalProjectOperAI\mlruns/311073318021552267/5a347569ffcf4f838bea2fffae41aabe/artifacts
+end_time: 1744403520019
+entry_point_name: ''
+experiment_id: '311073318021552267'
+lifecycle_stage: active
+run_id: 5a347569ffcf4f838bea2fffae41aabe
+run_name: LightGBM_NOxGT_n_estimators=1000_learning_rate=0.1
+run_uuid: 5a347569ffcf4f838bea2fffae41aabe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744403514866
+status: 3
+tags: []
+user_id: Asus

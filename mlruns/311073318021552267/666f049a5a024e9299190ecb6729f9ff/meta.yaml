@@ -1,0 +1,15 @@
+artifact_uri: file:///c:\Users\Asus\FinalProjectOperAI\mlruns/311073318021552267/666f049a5a024e9299190ecb6729f9ff/artifacts
+end_time: 1744403436267
+entry_point_name: ''
+experiment_id: '311073318021552267'
+lifecycle_stage: active
+run_id: 666f049a5a024e9299190ecb6729f9ff
+run_name: ElasticNetRegression_NOxGT_a10_l10.9
+run_uuid: 666f049a5a024e9299190ecb6729f9ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744403432096
+status: 3
+tags: []
+user_id: Asus

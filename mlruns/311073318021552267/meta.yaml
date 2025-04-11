@@ -1,0 +1,6 @@
+artifact_location: file:///c:\Users\Asus\FinalProjectOperAI\mlruns/311073318021552267
+creation_time: 1744403315902
+experiment_id: '311073318021552267'
+last_update_time: 1744403315902
+lifecycle_stage: active
+name: AirQuality_NOxGT_Prediction
