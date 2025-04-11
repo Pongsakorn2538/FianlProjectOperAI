@@ -11,7 +11,7 @@ import joblib
 
 current_dir = os.getcwd()
 parent_dir = os.path.dirname(current_dir)
-mlflow.set_tracking_uri("sqlite:///mlflow.db")
+mlflow.set_tracking_uri(f"sqlite:///{os.path.abspath('../mlflow.db')}")
 mlflow.set_experiment(experiment_name = "AirQuality_Simple_Regression")
 
 df_train = pd.read_pickle(parent_dir + r"\data\processed\feature_engineering_train_dataset.pkl")
