@@ -1,0 +1,16 @@
+artifact_uri: file:///c:\Users\Asus\FinalProjectOperAI\mlruns/127837947792526374/cd67cb3219d34eb08d154dc93d7479a0/artifacts
+deleted_time: 1744401494390
+end_time: 1744400500321
+entry_point_name: ''
+experiment_id: '127837947792526374'
+lifecycle_stage: deleted
+run_id: cd67cb3219d34eb08d154dc93d7479a0
+run_name: LightGBM_COGT_n_estimators=1000_learning_rate=0.01_max_depth=4_num_leaves=15_reg_alpha=0.1_reg_lambda=0.0
+run_uuid: cd67cb3219d34eb08d154dc93d7479a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744400495816
+status: 3
+tags: []
+user_id: Asus

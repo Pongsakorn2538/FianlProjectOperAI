@@ -1,8 +1,9 @@
 artifact_uri: file:///c:\Users\Asus\FinalProjectOperAI\mlruns/127837947792526374/5e3b6b139b024b8b979ae9c49557641b/artifacts
+deleted_time: 1744401494182
 end_time: 1744393890232
 entry_point_name: ''
 experiment_id: '127837947792526374'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5e3b6b139b024b8b979ae9c49557641b
 run_name: SimpleRegression_COGT
 run_uuid: 5e3b6b139b024b8b979ae9c49557641b

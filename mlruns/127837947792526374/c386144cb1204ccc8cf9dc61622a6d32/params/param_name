@@ -1,0 +1,1 @@
+{'n_estimators': 500, 'learning_rate': 0.05, 'max_depth': 4, 'num_leaves': 15, 'reg_alpha': 0.1, 'reg_lambda': 0.1}

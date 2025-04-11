@@ -1,0 +1,15 @@
+artifact_uri: file:///c:\Users\Asus\FinalProjectOperAI\mlruns/127837947792526374/589f3babcd3c472ba73b4702b293e971/artifacts
+end_time: 1744401642547
+entry_point_name: ''
+experiment_id: '127837947792526374'
+lifecycle_stage: active
+run_id: 589f3babcd3c472ba73b4702b293e971
+run_name: ElasticNetRegression_COGT_a1.0_l10.1
+run_uuid: 589f3babcd3c472ba73b4702b293e971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744401637746
+status: 3
+tags: []
+user_id: Asus

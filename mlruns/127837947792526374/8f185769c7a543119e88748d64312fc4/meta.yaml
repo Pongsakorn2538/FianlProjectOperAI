@@ -1,8 +1,9 @@
 artifact_uri: file:///c:\Users\Asus\FinalProjectOperAI\mlruns/127837947792526374/8f185769c7a543119e88748d64312fc4/artifacts
+deleted_time: 1744401518905
 end_time: 1744394499036
 entry_point_name: ''
 experiment_id: '127837947792526374'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8f185769c7a543119e88748d64312fc4
 run_name: ElasticNetRegression_COGT_a10_l10.9
 run_uuid: 8f185769c7a543119e88748d64312fc4

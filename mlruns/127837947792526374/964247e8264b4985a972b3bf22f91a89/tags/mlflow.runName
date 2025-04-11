@@ -1,0 +1,1 @@
+LightGBM_COGT_n_estimators=500_learning_rate=0.1_max_depth=8_num_leaves=63_reg_alpha=0.1_reg_lambda=0.0
