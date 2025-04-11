@@ -1,0 +1,21 @@
+artifact_path: SimpleRegressionModel_for_NO2GT
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.21.3
+model_size_bytes: 9366
+model_uuid: 14407c35e42f40a2a7b293856b096724
+prompts: null
+run_id: 0687047209714b5c89d9caa3f2d3ebf6
+utc_time_created: '2025-04-11 06:44:26.562797'

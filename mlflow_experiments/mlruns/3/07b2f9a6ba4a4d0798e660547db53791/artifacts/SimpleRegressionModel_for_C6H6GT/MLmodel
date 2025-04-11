@@ -1,0 +1,21 @@
+artifact_path: SimpleRegressionModel_for_C6H6GT
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.21.3
+model_size_bytes: 9365
+model_uuid: bf43c566b90e42abb9f04ba52be1fde5
+prompts: null
+run_id: 07b2f9a6ba4a4d0798e660547db53791
+utc_time_created: '2025-04-11 06:44:21.025927'
