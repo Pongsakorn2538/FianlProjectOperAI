@@ -1,0 +1,15 @@
+artifact_uri: file:///c:\Users\Asus\FinalProjectOperAI\mlruns/127837947792526374/5e3b6b139b024b8b979ae9c49557641b/artifacts
+end_time: 1744393890232
+entry_point_name: ''
+experiment_id: '127837947792526374'
+lifecycle_stage: active
+run_id: 5e3b6b139b024b8b979ae9c49557641b
+run_name: SimpleRegression_COGT
+run_uuid: 5e3b6b139b024b8b979ae9c49557641b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744393884934
+status: 3
+tags: []
+user_id: Asus
