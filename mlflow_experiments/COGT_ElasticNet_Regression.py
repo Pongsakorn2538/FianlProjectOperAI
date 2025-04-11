@@ -17,7 +17,6 @@ mlflow.set_experiment(experiment_name = "AirQuality_COGT_Prediction")
 
 list_alpha = [0.01, 0.1, 1.0, 10]
 list_l1_ratio = [0.1, 0.5, 0.9]
-results = []
 
 df_train = pd.read_pickle(parent_dir + r"\data\processed\feature_engineering_train_dataset.pkl")
 df_valid = pd.read_pickle(parent_dir + r"\data\processed\feature_engineering_validation_dataset.pkl")
