@@ -5,3 +5,4 @@ ucimlrepo==0.0.7
 seaborn==0.13.2
 statsmodels==0.14.4
 evidently==0.6.7
+lightgbm==4.6.0
