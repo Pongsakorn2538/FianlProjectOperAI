@@ -5,23 +5,27 @@ This project presents an end-to-end, production-ready air quality monitoring sys
 ---
 
 ## Prerequisites
-1. **Python**
+1. **Python**  
     Please refer to https://realpython.com/installing-python/
 
-2. **Python Library**
+2. **Python Library**  
     Please refer to requirements.txt and the instruction from https://packaging.python.org/en/latest/tutorials/installing-packages/
 
-3. **Kafka Set Up**
+3. **Kafka Set Up**  
     Please refer to Kafka Setup Description.pdf in documents folder.
 
-4. **ML Flow Set Up**
+4. **ML Flow Set Up**  
     Please refer to ML Flow Environment Set Up.pdf in documents folder.
+
+---
 
 ## Test Kafka on Local Environment
 After setting up Kafka and ML flow,
 1. Start Kafka server. Please refer to Kafka Setup Description.pdf in documents folder.
 2. Run producer.py by using the following command: python producer.py
 3. Run consumer.py by using the following command: python consumer.py
+
+---
 
 ## Test ML Flow on Local Environment
 1. Start ML flow. Please refer to ML Flow Environment Set Up.pdf in documents folder.
